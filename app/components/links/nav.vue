@@ -50,11 +50,11 @@ onUnmounted(() => {
                 </p>
             </NuxtLink>
             <div class="hidden md:flex items-center bg-[#001f4e] rounded-[1em] gap-[1em] px-[2em] text-[13pt]">
-                <NuxtLink to="#home"
+                <NuxtLink to="#home" @click="navigateAndClose('home')"
                     :class="['hover:text-[#c38d07]', activeSection === 'home' && 'text-[#c59107] font-bold']">
                     Home
                 </NuxtLink>
-                <NuxtLink to="#about"
+                <NuxtLink to="#about" @click="navigateAndClose('about')"
                     :class="['hover:text-[#c38d07]', activeSection === 'about' && 'text-[#c59107] font-bold']">
                     About
                 </NuxtLink>
@@ -62,12 +62,12 @@ onUnmounted(() => {
                     :class="['hover:text-[#c38d07]', activeSection === 'services' && 'text-[#c59107] font-bold']">
                     Services
                 </NuxtLink>
-                <NuxtLink to="#values" @click="navigateAndClose('services')"
-                    :class="['hover:text-[#c38d07]', activeSection === 'services' && 'text-[#c59107] font-bold']">
+                <NuxtLink to="#values" @click="navigateAndClose('values')"
+                    :class="['hover:text-[#c38d07]', activeSection === 'values' && 'text-[#c59107] font-bold']">
                     Values
                 </NuxtLink>
-                <NuxtLink to="#contact" @click="navigateAndClose('services')"
-                    :class="['hover:text-[#c38d07]', activeSection === 'services' && 'text-[#c59107] font-bold']">
+                <NuxtLink to="#contact" @click="navigateAndClose('contact')"
+                    :class="['hover:text-[#c38d07]', activeSection === 'contact' && 'text-[#c59107] font-bold']">
                     Contact
                 </NuxtLink>
             </div>
