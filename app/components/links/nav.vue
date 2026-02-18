@@ -43,10 +43,10 @@ onUnmounted(() => {
             <NuxtLink to="#home"
                 class="rounded-[1em] bg-[#001f4e] p-[0.5em] flex items-center transition-all duration-500 ease-in-out group">
                 <img src="~/assets/images/icon.jpeg" alt="" width="80" height="80" class="rounded-[0.5em] shrink-0" />
-                <p class="hidden md:block"
+                <p class=""
                     :class="['text-[12pt] companyname text-white whitespace-nowrap overflow-hidden transition-all duration-500 ease-in-out',
                         activeSection !== 'home' ? 'opacity-0 max-w-0 max-h-0 group-hover:opacity-100 group-hover:max-w-[400px] group-hover:max-h-[100px] group-hover:px-[1em]' : 'opacity-100 max-w-[400px] max-h-[100px] px-[1em]']">
-                    Murad United General <br /> Contracting & Trading Establishment
+                    Murad United General <br class="" /> <span class="hidden md:block">Contracting & Trading Establishment</span>
                 </p>
             </NuxtLink>
             <div class="hidden md:flex items-center bg-[#001f4e] rounded-[1em] gap-[1em] px-[2em] text-[13pt]">
@@ -72,7 +72,7 @@ onUnmounted(() => {
                 </NuxtLink>
             </div>
             <button @click="toggleMenu"
-                class="md:hidden flex items-center bg-[#001f4e] rounded-[1em] gap-[1em] px-[2em] text-[13pt]"
+                :class="['md:hidden flex items-center bg-[#001f4e] rounded-[1em] gap-[1em] px-[2em] text-[13pt]', activeSection === 'home' && 'hidden']"
                 aria-label="Toggle menu" :aria-expanded="isMenuOpen">
                 <p class="capitalize font-semibold">{{ activeSection }}</p>
                 <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fff"
