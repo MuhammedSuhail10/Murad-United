@@ -84,7 +84,7 @@ onUnmounted(() => {
                 enter-from-class="opacity-0 -translate-y-2" enter-to-class="opacity-100 translate-y-0"
                 leave-active-class="transition-all duration-200 ease-in" leave-from-class="opacity-100 translate-y-0"
                 leave-to-class="opacity-0 -translate-y-2">
-                <div v-if="isMenuOpen" class="absolute top-full left-0 right-0 px-[2em] mt-2 md:hidden">
+                <div v-if="isMenuOpen" class="absolute top-full left-0 right-0 px-[2em] mt-2 md:hidden text-black">
                     <div
                         class="bg-black/30 backdrop-blur-lg border border-[#C7C4B7] rounded-2xl overflow-hidden shadow-xl">
                         <NuxtLink to="#home" @click="navigateAndClose('home')" :class="[
