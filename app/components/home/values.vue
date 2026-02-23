@@ -1,5 +1,5 @@
 <template>
-    <section id="values" aria-label="Core values of Falcom United General Contracting Est. Company">
+    <section id="values" aria-label="Core values of Murad United General Contracting & Trading Establishment Company">
         <h2 class="sr-only">Our Core Values & Differences We Make - Murad United General Contracting & Trading
             Establishment</h2>
         <div class="lg:px-[12em] px-[1em] lg:py-[5em] py-[2em]">
@@ -9,7 +9,7 @@
             <div class="my-[2em] flex flex-col md:flex-row flex-wrap gap-[1.5em] justify-between">
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/transparent.avif"
+                    <img src="~/assets/images/values/transparent.avif"
                         alt="Falcom United Contracting value of transparency, honesty, and integrity"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Transparency, Honesty, And
@@ -19,7 +19,7 @@
                 </div>
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/environmental.avif"
+                    <img src="~/assets/images/values/environmental.avif"
                         alt="Falcom United Contracting commitment to environmental protection and sustainable development"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Environmental Protection And
@@ -31,7 +31,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/health.avif"
+                    <img src="~/assets/images/values/health.avif"
                         alt="Falcom United Contracting commitment to human rights, employee health, and workplace safety"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Human Rights, Health, And Safety
@@ -42,7 +42,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/innovation.avif"
+                    <img src="~/assets/images/values/innovation.avif"
                         alt="Falcom United Contracting focus on innovation and continuous improvement through modern technologies"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Innovation And Continuous
@@ -53,7 +53,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/customer.avif"
+                    <img src="~/assets/images/values/customer.avif"
                         alt="Falcom United Contracting customer-centric approach delivering quality and ethical services"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Customer Centric Approach</h3>
@@ -64,7 +64,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/community.avif"
+                    <img src="~/assets/images/values/community.avif"
                         alt="Falcom United Contracting commitment to community engagement and local development"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Community Engagement</h3>
@@ -74,7 +74,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/community.avif"
+                    <img src="~/assets/images/values/quality.avif"
                         alt="Falcom United Contracting commitment to quality assurance"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Quality Assurance</h3>
@@ -84,7 +84,7 @@
 
                 <div
                     class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
-                    <img src="~/assets/images/community.avif"
+                    <img src="~/assets/images/values/teamwork.avif"
                         alt="Falcom United Contracting strong teamwork and collaboration culture"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
                     <h3 class="text-[16pt] text-[#001f4e] font-bold italic mb-[0.5em]">Teamwork And Collaboration</h3>

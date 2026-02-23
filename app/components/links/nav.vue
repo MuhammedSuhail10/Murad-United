@@ -42,7 +42,7 @@ onUnmounted(() => {
         <div class="flex justify-between text-white">
             <NuxtLink to="#home"
                 class="rounded-[1em] bg-[#001f4e] p-[0.5em] flex items-center transition-all duration-500 ease-in-out group">
-                <img src="~/assets/images/icon.jpeg" alt="" width="80" height="80" class="rounded-[0.5em] shrink-0" />
+                <img src="~/assets/images/icon.avif" alt="" width="80" height="80" class="rounded-[0.5em] shrink-0" />
                 <p class=""
                     :class="['text-[12pt] companyname text-white whitespace-nowrap overflow-hidden transition-all duration-500 ease-in-out',
                         activeSection !== 'home' ? 'opacity-0 max-w-0 max-h-0 group-hover:opacity-100 group-hover:max-w-[400px] group-hover:max-h-[100px] group-hover:px-[1em]' : 'opacity-100 max-w-[400px] max-h-[100px] px-[1em]']">

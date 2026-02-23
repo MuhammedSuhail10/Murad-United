@@ -1,5 +1,5 @@
 <template>
-    <section id="about" aria-label="About Falcom United General Contracting Est. Company"
+    <section id="about" aria-label="About Murad United General Contracting & Trading Establishment Company"
         class="lg:px-[12em] px-[1em] lg:py-[5em] ">
         <h2 class="sr-only">About Murad United General Contracting & Trading Establishment</h2>
         <div class="lg:pb-[1em] pt-[3em] ">
@@ -58,15 +58,15 @@
         <div class="my-[3em]">
             <h3 class="text-[1.5em] lg:text-[2.5em] font-semibold">Our Major Clients</h3>
             <div class="flex flex-wrap mt-[1em] justify-between">
-                <img src="~/assets/images/aramco.png" alt="" width="150" height="150"
+                <img src="~/assets/images/clients/aramco.avif" alt="" width="150" height="150"
                     class="shrink-0 hover:scale-105" />
-                <img src="~/assets/images/petrokemya.png" alt="" width="150" height="150"
+                <img src="~/assets/images/clients/petrokemya.avif" alt="" width="150" height="150"
                     class="shrink-0 hover:scale-105" />
-                <img src="~/assets/images/sabic.jpg" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
-                <img src="~/assets/images/saipem.png" alt="" width="150" height="150"
+                <img src="~/assets/images/clients/sabic.avif" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
+                <img src="~/assets/images/clients/saipem.avif" alt="" width="150" height="150"
                     class="shrink-0 hover:scale-105" />
-                <img src="~/assets/images/SEC.jpg" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
-                <img src="~/assets/images/SWCC.png" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
+                <img src="~/assets/images/clients/SEC.avif" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
+                <img src="~/assets/images/clients/SWCC.avif" alt="" width="150" height="150" class="shrink-0 hover:scale-105" />
             </div>
         </div>
     </section>

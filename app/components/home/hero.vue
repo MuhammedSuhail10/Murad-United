@@ -2,7 +2,7 @@
     <section id="home" aria-label="Murad United General Contracting & Trading Establishment. Hero Section">
         <div class="h-[100svh] bg-[#001f4e] md:p-[3em] p-[1em]">
             <div
-                class="bg-[url(~/assets/images/homebanner2.jpg)] bg-cover bg-center bg-no-repeat h-[100%] relative rounded-[2em]">
+                class="bg-[url(~/assets/images/homebanner.avif)] bg-cover bg-center bg-no-repeat h-[100%] relative rounded-[2em]">
                 <div
                     class=" absolute top-[40%] lg:top-[55%] md:px-[5em] px-[1em] py-[1.5em] rounded-r-[2em] lg:rounded-r-[3em] w-[95%] lg:w-fit text-white">
                     <h1 class="sr-only">
