@@ -8,7 +8,7 @@
             </div>
             <div class="my-[2em] flex flex-col md:flex-row flex-wrap gap-[1.5em] justify-between">
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/transparent.avif"
                         alt="Falcom United Contracting value of transparency, honesty, and integrity"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -18,7 +18,7 @@
                         all our dealings, building trust with clients, partners, and team members.</p>
                 </div>
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/environmental.avif"
                         alt="Falcom United Contracting commitment to environmental protection and sustainable development"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -30,7 +30,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/health.avif"
                         alt="Falcom United Contracting commitment to human rights, employee health, and workplace safety"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -41,7 +41,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/innovation.avif"
                         alt="Falcom United Contracting focus on innovation and continuous improvement through modern technologies"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -52,7 +52,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/customer.avif"
                         alt="Falcom United Contracting customer-centric approach delivering quality and ethical services"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -63,7 +63,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/community.avif"
                         alt="Falcom United Contracting commitment to community engagement and local development"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -73,7 +73,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/quality.avif"
                         alt="Falcom United Contracting commitment to quality assurance"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">
@@ -83,7 +83,7 @@
                 </div>
 
                 <div
-                    class="border-1 border-[#c59107] flex flex-col md:w-[22%] items-center rounded-[1.5em] p-[1.5em] text-center">
+                    class="border-1 border-[#c59107] flex flex-col lg:w-[22%] md:w-[48%] items-center rounded-[1.5em] p-[1.5em] text-center">
                     <img src="~/assets/images/values/teamwork.avif"
                         alt="Falcom United Contracting strong teamwork and collaboration culture"
                         class="h-[10em] w-[10em] rounded-[1em] mb-[1em] object-cover">

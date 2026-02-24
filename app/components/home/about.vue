@@ -22,10 +22,10 @@
                 dedication, sincerity, and the highest ethical standards.
             </p>
         </div>
-        <div class="flex flex-col text-white lg:flex-row mt-[1em] lg:mt-[3em] gap-[1em] lg:gap-[5em] ">
-            <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#042558]/90 rounded-[2em] lg:rounded-[3em]">
-                <h3 class="text-[1.5em] lg:text-[2em] text-[#c59107] font-semibold">Mission</h3>
-                <p class="lg:text-[1.25em] ">
+        <div class="flex flex-col text-white md:flex-row mt-[1em] md:mt-[3em] gap-[1em] md:gap-[5em] ">
+            <div class="md:w-[50%] relative p-[1.5em] md:p-[3em] bg-[#042558]/90 rounded-[2em] md:rounded-[3em]">
+                <h3 class="text-[1.5em] md:text-[2em] text-[#c59107] font-semibold">Mission</h3>
+                <p class="md:text-[1.25em] ">
                     Dedicated to excellence,
                     Murad United General Contracting is committed
                     to providing toptier Rental
@@ -37,9 +37,9 @@
                     standards.
                 </p>
             </div>
-            <div class="lg:w-[50%] relative p-[1.5em] lg:p-[3em] bg-[#042558]/90 rounded-[2em] lg:rounded-[3em]">
-                <h3 class="text-[1.5em] lg:text-[2em] text-[#c59107] font-semibold">Vision</h3>
-                <p class="lg:text-[1.25em]">
+            <div class="md:w-[50%] relative p-[1.5em] md:p-[3em] bg-[#042558]/90 rounded-[2em] md:rounded-[3em]">
+                <h3 class="text-[1.5em] md:text-[2em] text-[#c59107] font-semibold">Vision</h3>
+                <p class="md:text-[1.25em]">
                     We aspire to be the
                     foremost service provider,
                     supporting key industries

@@ -11,10 +11,10 @@ const navigateToMap = () => {
             <p class="font-[sansita] text-center lg:text-[3em] text-[2em] text-[#001f4e]">
                 Contact Us
             </p>
-            <div class="flex flex-col lg:flex-row gap-[2em] my-[2em]">
+            <div class="flex flex-col md:flex-row gap-[2em] my-[2em]">
                 <div
-                    class="bg-[#C7C4B7]/50 lg:w-[50%] md:px-[3em] md:py-[5em] p-[2em] flex flex-col gap-[2.5em] rounded-[1.5em] lg:rounded-[3em]">
-                    <div class="flex lg:gap-[1em] gap-[0.5em] items-center">
+                    class="bg-[#C7C4B7]/50 md:w-[50%] md:px-[3em] md:py-[5em] p-[2em] flex flex-col gap-[2.5em] rounded-[1.5em] md:rounded-[3em]">
+                    <div class="flex md:gap-[1em] gap-[0.5em] items-center">
                         <div class="bg-[#001f4e] p-[0.5em] rounded-full">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 24 24"
                                 fill="none">
@@ -24,9 +24,9 @@ const navigateToMap = () => {
                             </svg>
                         </div>
                         <a href="tel:+966570692991"
-                            class="lg:text-[1.5em] text-[1.25em] hover:text-[#c38d07]">+966570692991</a>
+                            class="md:text-[1.5em] text-[1.25em] hover:text-[#c38d07]">+966570692991</a>
                     </div>
-                    <div class="flex lg:gap-[1em] gap-[0.5em] items-center">
+                    <div class="flex md:gap-[1em] gap-[0.5em] items-center">
                         <div class="bg-[#001f4e] p-[0.5em] rounded-full">
                             <svg xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px"
                                 fill="#ffffff">
@@ -36,10 +36,10 @@ const navigateToMap = () => {
                         </div>
                         <div class="flex flex-col">
                             <a href="mailto:info@muradunited.com"
-                                class="lg:text-[1.5em] text-[1.25em] hover:text-[#c38d07]">info@muradunited.com</a>
+                                class="md:text-[1.5em] text-[1.25em] hover:text-[#c38d07]">info@muradunited.com</a>
                         </div>
                     </div>
-                    <div class="flex lg:gap-[1em] gap-[0.5em] items-center">
+                    <div class="flex md:gap-[1em] gap-[0.5em] items-center">
                         <div class="bg-[#001f4e] p-[0.5em] rounded-full">
                             <svg xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px"
                                 fill="#ffffff">
@@ -49,13 +49,13 @@ const navigateToMap = () => {
                         </div>
                         <div class="flex flex-col">
                             <p @click="navigateToMap"
-                                class="lg:text-[1.5em] text-[1.25em] hover:text-[#c38d07] cursor-pointer">Jubail City
+                                class="md:text-[1.5em] text-[1.25em] hover:text-[#c38d07] cursor-pointer">Jubail City
                                 Center, Al Jubayl 35514, Saudi Arabia</p>
                         </div>
                     </div>
                 </div>
                 <div
-                    class="bg-[#C7C4B7]/50 lg:w-[50%] p-[1em] flex flex-col gap-[1em] rounded-[1.5em] lg:rounded-[3em]">
+                    class="bg-[#C7C4B7]/50 md:w-[50%] p-[1em] flex flex-col gap-[1em] rounded-[1.5em] md:rounded-[3em]">
                     <iframe
                         title="Google Map location of Murad United General Contracting & Trading Establishment Company, XMJ6+96F, Al Jubail, Saudi Arabia"
                         width="100%" height="100%" style="border:0; border-radius:1.5em;" loading="lazy"
